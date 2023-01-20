@@ -1,3 +1,4 @@
+import { useAuth } from 'contexts/AuthContext';
 import styled from 'styled-components';
 
 const StyledFooter = styled.footer`
@@ -31,11 +32,16 @@ const StyledButton = styled.button`
   }
 `;
 
-const Footer = () => {
+const Footer = ({ todoNumbers }) => {
+  const { logout } = useAuth();
+  // 設置移除 Token 和跳轉頁面
+  const handleClick = () => {
+    logout();
+  };
   return (
     <StyledFooter>
-      <p>剩餘項目數： 0</p>
-      <StyledButton>登出</StyledButton>
+      <p>剩餘項目數： {todoNumbers}</p>
+      <StyledButton onClick={handleClick}>登出</StyledButton>
     </StyledFooter>
   );
 };
