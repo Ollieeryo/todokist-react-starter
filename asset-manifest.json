@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/todokist-react-starter/static/css/main.4097c508.chunk.css",
+    "main.js": "/todokist-react-starter/static/js/main.14d34747.chunk.js",
+    "main.js.map": "/todokist-react-starter/static/js/main.14d34747.chunk.js.map",
+    "runtime-main.js": "/todokist-react-starter/static/js/runtime-main.dc65d36e.js",
+    "runtime-main.js.map": "/todokist-react-starter/static/js/runtime-main.dc65d36e.js.map",
+    "static/js/2.b37fb468.chunk.js": "/todokist-react-starter/static/js/2.b37fb468.chunk.js",
+    "static/js/2.b37fb468.chunk.js.map": "/todokist-react-starter/static/js/2.b37fb468.chunk.js.map",
+    "static/js/3.f7381e57.chunk.js": "/todokist-react-starter/static/js/3.f7381e57.chunk.js",
+    "static/js/3.f7381e57.chunk.js.map": "/todokist-react-starter/static/js/3.f7381e57.chunk.js.map",
+    "index.html": "/todokist-react-starter/index.html",
+    "static/css/main.4097c508.chunk.css.map": "/todokist-react-starter/static/css/main.4097c508.chunk.css.map",
+    "static/js/2.b37fb468.chunk.js.LICENSE.txt": "/todokist-react-starter/static/js/2.b37fb468.chunk.js.LICENSE.txt",
+    "static/media/ac-logo.eea79863.svg": "/todokist-react-starter/static/media/ac-logo.eea79863.svg",
+    "static/media/check-active.680985db.svg": "/todokist-react-starter/static/media/check-active.680985db.svg",
+    "static/media/check-circle.ad8591fd.svg": "/todokist-react-starter/static/media/check-circle.ad8591fd.svg",
+    "static/media/check-hover.f1b1bcfd.svg": "/todokist-react-starter/static/media/check-hover.f1b1bcfd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc65d36e.js",
+    "static/js/2.b37fb468.chunk.js",
+    "static/css/main.4097c508.chunk.css",
+    "static/js/main.14d34747.chunk.js"
+  ]
+}
