@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/todokist-react-starter/static/css/main.81e9703d.chunk.css",
-    "main.js": "/todokist-react-starter/static/js/main.dfd958fb.chunk.js",
-    "main.js.map": "/todokist-react-starter/static/js/main.dfd958fb.chunk.js.map",
+    "main.js": "/todokist-react-starter/static/js/main.caa3bed2.chunk.js",
+    "main.js.map": "/todokist-react-starter/static/js/main.caa3bed2.chunk.js.map",
     "runtime-main.js": "/todokist-react-starter/static/js/runtime-main.dc65d36e.js",
     "runtime-main.js.map": "/todokist-react-starter/static/js/runtime-main.dc65d36e.js.map",
     "static/js/2.4e4d02b7.chunk.js": "/todokist-react-starter/static/js/2.4e4d02b7.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.dc65d36e.js",
     "static/js/2.4e4d02b7.chunk.js",
     "static/css/main.81e9703d.chunk.css",
-    "static/js/main.dfd958fb.chunk.js"
+    "static/js/main.caa3bed2.chunk.js"
   ]
 }
