@@ -45,7 +45,7 @@ export const register = async ({ username, email, password }) => {
 // 驗證 token 是否還有效
 export const checkPermission = async (authToken) => {
   try {
-    const response = await axios.get(`${authURL}/test-toke`, {
+    const response = await axios.get(`${authURL}/test-token`, {
       headers: {
         //根據後端提供的 API 規格，後端會提供 success 屬性來告知 true/false
         Authorization: 'Bearer ' + authToken,
