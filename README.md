@@ -1,6 +1,5 @@
 # Todo List X MVC with React
 
-- A starter project for react tutorial
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - 此專案使用 React 開發，目的功能為實現 TodoList 功能的網站
 
