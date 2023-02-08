@@ -33,7 +33,7 @@ https://github.com/Ollieeryo/todokist-react-starter.git
 ```
 webpack compiled successfully
 ```
-7. 現在可以在瀏覽器中輸入[localhost:3000](http://localhost:3000)，並且開始瀏覽和使用此專案網站
+7. 現在可以在瀏覽器中輸入[http://localhost:3000/todokist-react-starter/login]([http://localhost:3000](http://localhost:3000/todokist-react-starter/login))，並且開始瀏覽和使用此專案網站
 
 # 專案畫面-Screen Photo
 ![home-page](https://github.com/Ollieeryo/todokist-react-starter/blob/main/public/images/homePage.jpg)
