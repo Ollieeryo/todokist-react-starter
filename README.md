@@ -36,8 +36,8 @@ webpack compiled successfully
 7. 現在可以在瀏覽器中輸入[localhost:3000](http://localhost:3000)，並且開始瀏覽和使用此專案網站
 
 # 專案畫面-Screen Photo
-![light-mode](https://github.com/Ollieeryo/Alpha-shop-react/blob/main/public/images/alpha-shop-light.jpg)
-![dark-mode](https://github.com/Ollieeryo/Alpha-shop-react/blob/main/public/images/alpha-shop-dark.jpg)
+![home-page](https://github.com/Ollieeryo/todokist-react-starter/blob/main/public/images/homePage.jpg)
+![todo-page](https://github.com/Ollieeryo/todokist-react-starter/blob/main/public/images/todoPage.jpg)
 
 # 專案開發人員-Contributor
 > [Oliver Liao](https://github.com/Ollieeryo)
